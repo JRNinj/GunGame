@@ -1,0 +1,18 @@
+name: GunGame
+version: '${project.version}'
+main: de.jrninj.gungame.Main
+api-version: 1.17
+authors: [ JRNinj, TimeTravelStudios ]
+description: Dieses Plugin ist ein GunGame MiniGames System!
+
+commands:
+  kit:
+    description: Mit diesem Befehl kannst du dir oder einem anderen Spieler ein Kit geben!
+  setup:
+    description: Mit diesem Befehl kannst du das Plugin einrichten!
+
+permissions:
+  gungame.command.kit:
+    description: Zugriff auf den /kit Befehl
+  gungame.command.setup:
+    description: Zugriff auf den /setup Befehl
