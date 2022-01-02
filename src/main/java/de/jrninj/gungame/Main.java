@@ -6,6 +6,8 @@ import de.jrninj.gungame.game.GunGame;
 import de.jrninj.gungame.listener.UsefulListeners;
 import de.jrninj.gungame.utils.DefaultConfig;
 import org.bukkit.Bukkit;
+import org.bukkit.GameRule;
+import org.bukkit.World;
 import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
 
@@ -24,6 +26,11 @@ public final class Main extends JavaPlugin {
 
         DefaultConfig.setStandart();
         GunGame.GunGameEngine();
+
+        for (World world : Bukkit.getWorlds()) {
+            world.setGameRule(GameRule.KEEP_INVENTORY, true);
+            world.setGameRule(GameRule.DO_IMMEDIATE_RESPAWN, true);
+        }
 
     }
 

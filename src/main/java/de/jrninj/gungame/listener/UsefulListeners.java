@@ -94,6 +94,7 @@ public class UsefulListeners implements Listener {
                 }
                 if(Regions.isIn(e.getDamager().getLocation(), config.getLocation("Setup.SpawnArea.1"), config.getLocation("Setup.SpawnArea.2"))) {
                     e.setCancelled(true);
+                    e.getDamager().sendMessage(Main.PREFIX + "Du kannst hier nicht kämpfen!");
                 }
             }
         }
