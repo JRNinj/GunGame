@@ -1,0 +1,1030 @@
+Kits:
+  0:
+    hand:
+      Item: WOODEN_AXE
+      Enchantment: /
+      Level: /
+    helmet:
+      Item: /
+      Enchantment: /
+      Level: /
+    chestplate:
+      Item: /
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: /
+      Enchantment: /
+      Level: /
+    boots:
+      Item: /
+      Enchantment: /
+      Level: /
+  1:
+    hand:
+      Item: WOODEN_SWORD
+      Enchantment: /
+      Level: /
+    helmet:
+      Item: /
+      Enchantment: /
+      Level: /
+    chestplate:
+      Item: /
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: /
+      Enchantment: /
+      Level: /
+    boots:
+      Item: /
+      Enchantment: /
+      Level: /
+  2:
+    hand:
+      Item: WOODEN_SWORD
+      Enchantment: /
+      Level: /
+    helmet:
+      Item: LEATHER_HELMET
+      Enchantment: /
+      Level: /
+    chestplate:
+      Item: /
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: /
+      Enchantment: /
+      Level: /
+    boots:
+      Item: LEATHER_BOOTS
+      Enchantment: /
+      Level: /
+  3:
+    hand:
+      Item: WOODEN_SWORD
+      Enchantment: /
+      Level: /
+    helmet:
+      Item: LEATHER_HELMET
+      Enchantment: /
+      Level: /
+    chestplate:
+      Item: LEATHER_CHESTPLATE
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: LEATHER_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: LEATHER_BOOTS
+      Enchantment: /
+      Level: /
+  4:
+    hand:
+      Item: GOLDEN_SWORD
+      Enchantment: /
+      Level: /
+    helmet:
+      Item: LEATHER_HELMET
+      Enchantment: /
+      Level: /
+    chestplate:
+      Item: LEATHER_CHESTPLATE
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: LEATHER_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: LEATHER_BOOTS
+      Enchantment: /
+      Level: /
+  5:
+    hand:
+      Item: GOLDEN_SWORD
+      Enchantment: /
+      Level: /
+    helmet:
+      Item: GOLDEN_HELMET
+      Enchantment: /
+      Level: /
+    chestplate:
+      Item: LEATHER_CHESTPLATE
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: LEATHER_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: GOLDEN_BOOTS
+      Enchantment: /
+      Level: /
+  6:
+    hand:
+      Item: GOLDEN_SWORD
+      Enchantment: /
+      Level: /
+    helmet:
+      Item: GOLDEN_HELMET
+      Enchantment: /
+      Level: /
+    chestplate:
+      Item: GOLDEN_CHESTPLATE
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: GOLDEN_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: GOLDEN_BOOTS
+      Enchantment: /
+      Level: /
+  7:
+    hand:
+      Item: STONE_SWORD
+      Enchantment: /
+      Level: /
+    helmet:
+      Item: GOLDEN_HELMET
+      Enchantment: /
+      Level: /
+    chestplate:
+      Item: GOLDEN_CHESTPLATE
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: GOLDEN_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: GOLDEN_BOOTS
+      Enchantment: /
+      Level: /
+  8:
+    hand:
+      Item: STONE_SWORD
+      Enchantment: /
+      Level: /
+    helmet:
+      Item: CHAINMAIL_HELMET
+      Enchantment: /
+      Level: /
+    chestplate:
+      Item: GOLDEN_CHESTPLATE
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: GOLDEN_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: CHAINMAIL_BOOTS
+      Enchantment: /
+      Level: /
+  9:
+    hand:
+      Item: STONE_SWORD
+      Enchantment: /
+      Level: /
+    helmet:
+      Item: CHAINMAIL_HELMET
+      Enchantment: /
+      Level: /
+    chestplate:
+      Item: CHAINMAIL_CHESTPLATE
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: CHAINMAIL_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: CHAINMAIL_BOOTS
+      Enchantment: /
+      Level: /
+  10:
+    hand:
+      Item: IRON_SWORD
+      Enchantment: /
+      Level: /
+    helmet:
+      Item: CHAINMAIL_HELMET
+      Enchantment: /
+      Level: /
+    chestplate:
+      Item: CHAINMAIL_CHESTPLATE
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: CHAINMAIL_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: CHAINMAIL_BOOTS
+      Enchantment: /
+      Level: /
+  11:
+    hand:
+      Item: IRON_SWORD
+      Enchantment: /
+      Level: /
+    helmet:
+      Item: IRON_HELMET
+      Enchantment: /
+      Level: /
+    chestplate:
+      Item: CHAINMAIL_CHESTPLATE
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: CHAINMAIL_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: IRON_BOOTS
+      Enchantment: /
+      Level: /
+  12:
+    hand:
+      Item: IRON_SWORD
+      Enchantment: /
+      Level: /
+    helmet:
+      Item: IRON_HELMET
+      Enchantment: /
+      Level: /
+    chestplate:
+      Item: IRON_CHESTPLATE
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: IRON_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: IRON_BOOTS
+      Enchantment: /
+      Level: /
+  13:
+    hand:
+      Item: DIAMOND_SWORD
+      Enchantment: /
+      Level: /
+    helmet:
+      Item: IRON_HELMET
+      Enchantment: /
+      Level: /
+    chestplate:
+      Item: IRON_CHESTPLATE
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: IRON_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: IRON_BOOTS
+      Enchantment: /
+      Level: /
+  14:
+    hand:
+      Item: DIAMOND_SWORD
+      Enchantment: /
+      Level: /
+    helmet:
+      Item: DIAMOND_HELMET
+      Enchantment: /
+      Level: /
+    chestplate:
+      Item: IRON_CHESTPLATE
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: IRON_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: DIAMOND_BOOTS
+      Enchantment: /
+      Level: /
+  15:
+    hand:
+      Item: DIAMOND_SWORD
+      Enchantment: /
+      Level: /
+    helmet:
+      Item: DIAMOND_HELMET
+      Enchantment: /
+      Level: /
+    chestplate:
+      Item: DIAMOND_CHESTPLATE
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: DIAMOND_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: DIAMOND_BOOTS
+      Enchantment: /
+      Level: /
+  16:
+    hand:
+      Item: NETHERITE_SWORD
+      Enchantment: /
+      Level: /
+    helmet:
+      Item: DIAMOND_HELMET
+      Enchantment: /
+      Level: /
+    chestplate:
+      Item: DIAMOND_CHESTPLATE
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: DIAMOND_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: DIAMOND_BOOTS
+      Enchantment: /
+      Level: /
+  17:
+    hand:
+      Item: NETHERITE_SWORD
+      Enchantment: /
+      Level: /
+    helmet:
+      Item: NETHERITE_HELMET
+      Enchantment: /
+      Level: /
+    chestplate:
+      Item: DIAMOND_CHESTPLATE
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: DIAMOND_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: NETHERITE_BOOTS
+      Enchantment: /
+      Level: /
+  18:
+    hand:
+      Item: NETHERITE_SWORD
+      Enchantment: /
+      Level: /
+    helmet:
+      Item: NETHERITE_HELMET
+      Enchantment: /
+      Level: /
+    chestplate:
+      Item: NETHERITE_CHESTPLATE
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: NETHERITE_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: NETHERITE_BOOTS
+      Enchantment: /
+      Level: /
+  19:
+    hand:
+      Item: WOODEN_SWORD
+      Enchantment: sharpness
+      Level: 4
+    helmet:
+      Item: NETHERITE_HELMET
+      Enchantment: /
+      Level: /
+    chestplate:
+      Item: NETHERITE_CHESTPLATE
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: NETHERITE_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: NETHERITE_BOOTS
+      Enchantment: /
+      Level: /
+  20:
+    hand:
+      Item: GOLDEN_SWORD
+      Enchantment: sharpness
+      Level: 4
+    helmet:
+      Item: NETHERITE_HELMET
+      Enchantment: /
+      Level: /
+    chestplate:
+      Item: NETHERITE_CHESTPLATE
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: NETHERITE_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: NETHERITE_BOOTS
+      Enchantment: /
+      Level: /
+  21:
+    hand:
+      Item: STONE_SWORD
+      Enchantment: sharpness
+      Level: 4
+    helmet:
+      Item: NETHERITE_HELMET
+      Enchantment: /
+      Level: /
+    chestplate:
+      Item: NETHERITE_CHESTPLATE
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: NETHERITE_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: NETHERITE_BOOTS
+      Enchantment: /
+      Level: /
+  22:
+    hand:
+      Item: IRON_SWORD
+      Enchantment: sharpness
+      Level: 4
+    helmet:
+      Item: NETHERITE_HELMET
+      Enchantment: /
+      Level: /
+    chestplate:
+      Item: NETHERITE_CHESTPLATE
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: NETHERITE_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: NETHERITE_BOOTS
+      Enchantment: /
+      Level: /
+  23:
+    hand:
+      Item: DIAMOND_SWORD
+      Enchantment: sharpness
+      Level: 4
+    helmet:
+      Item: NETHERITE_HELMET
+      Enchantment: /
+      Level: /
+    chestplate:
+      Item: NETHERITE_CHESTPLATE
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: NETHERITE_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: NETHERITE_BOOTS
+      Enchantment: /
+      Level: /
+  24:
+    hand:
+      Item: NETHERITE_SWORD
+      Enchantment: sharpness
+      Level: 4
+    helmet:
+      Item: NETHERITE_HELMET
+      Enchantment: /
+      Level: /
+    chestplate:
+      Item: NETHERITE_CHESTPLATE
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: NETHERITE_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: NETHERITE_BOOTS
+      Enchantment: /
+      Level: /
+  25:
+    hand:
+      Item: NETHERITE_SWORD
+      Enchantment: sharpness
+      Level: 4
+    helmet:
+      Item: NETHERITE_HELMET
+      Enchantment: /
+      Level: /
+    chestplate:
+      Item: NETHERITE_CHESTPLATE
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: NETHERITE_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: LEATHER_BOOTS
+      Enchantment: protection
+      Level: 4
+  26:
+    hand:
+      Item: NETHERITE_SWORD
+      Enchantment: sharpness
+      Level: 4
+    helmet:
+      Item: NETHERITE_HELMET
+      Enchantment: /
+      Level: /
+    chestplate:
+      Item: NETHERITE_CHESTPLATE
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: NETHERITE_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: GOLDEN_BOOTS
+      Enchantment: protection
+      Level: 4
+  27:
+    hand:
+      Item: NETHERITE_SWORD
+      Enchantment: sharpness
+      Level: 4
+    helmet:
+      Item: NETHERITE_HELMET
+      Enchantment: /
+      Level: /
+    chestplate:
+      Item: NETHERITE_CHESTPLATE
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: NETHERITE_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: CHAINMAIL_BOOTS
+      Enchantment: protection
+      Level: 4
+  28:
+    hand:
+      Item: NETHERITE_SWORD
+      Enchantment: sharpness
+      Level: 4
+    helmet:
+      Item: NETHERITE_HELMET
+      Enchantment: /
+      Level: /
+    chestplate:
+      Item: NETHERITE_CHESTPLATE
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: NETHERITE_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: IRON_BOOTS
+      Enchantment: protection
+      Level: 4
+  29:
+    hand:
+      Item: NETHERITE_SWORD
+      Enchantment: sharpness
+      Level: 4
+    helmet:
+      Item: NETHERITE_HELMET
+      Enchantment: /
+      Level: /
+    chestplate:
+      Item: NETHERITE_CHESTPLATE
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: NETHERITE_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: DIAMOND_BOOTS
+      Enchantment: protection
+      Level: 4
+  30:
+    hand:
+      Item: NETHERITE_SWORD
+      Enchantment: sharpness
+      Level: 4
+    helmet:
+      Item: NETHERITE_HELMET
+      Enchantment: /
+      Level: /
+    chestplate:
+      Item: NETHERITE_CHESTPLATE
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: NETHERITE_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: NETHERITE_BOOTS
+      Enchantment: protection
+      Level: 4
+  31:
+    hand:
+      Item: NETHERITE_SWORD
+      Enchantment: sharpness
+      Level: 4
+    helmet:
+      Item: LEATHER_HELMET
+      Enchantment: protection
+      Level: 4
+    chestplate:
+      Item: NETHERITE_CHESTPLATE
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: NETHERITE_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: NETHERITE_BOOTS
+      Enchantment: protection
+      Level: 4
+  32:
+    hand:
+      Item: NETHERITE_SWORD
+      Enchantment: sharpness
+      Level: 4
+    helmet:
+      Item: GOLDEN_HELMET
+      Enchantment: protection
+      Level: 4
+    chestplate:
+      Item: NETHERITE_CHESTPLATE
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: NETHERITE_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: NETHERITE_BOOTS
+      Enchantment: protection
+      Level: 4
+  33:
+    hand:
+      Item: NETHERITE_SWORD
+      Enchantment: sharpness
+      Level: 4
+    helmet:
+      Item: CHAINMAIL_HELMET
+      Enchantment: protection
+      Level: 4
+    chestplate:
+      Item: NETHERITE_CHESTPLATE
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: NETHERITE_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: NETHERITE_BOOTS
+      Enchantment: protection
+      Level: 4
+  34:
+    hand:
+      Item: NETHERITE_SWORD
+      Enchantment: sharpness
+      Level: 4
+    helmet:
+      Item: IRON_HELMET
+      Enchantment: protection
+      Level: 4
+    chestplate:
+      Item: NETHERITE_CHESTPLATE
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: NETHERITE_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: NETHERITE_BOOTS
+      Enchantment: protection
+      Level: 4
+  35:
+    hand:
+      Item: NETHERITE_SWORD
+      Enchantment: sharpness
+      Level: 4
+    helmet:
+      Item: DIAMOND_HELMET
+      Enchantment: protection
+      Level: 4
+    chestplate:
+      Item: NETHERITE_CHESTPLATE
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: NETHERITE_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: NETHERITE_BOOTS
+      Enchantment: protection
+      Level: 4
+  36:
+    hand:
+      Item: NETHERITE_SWORD
+      Enchantment: sharpness
+      Level: 4
+    helmet:
+      Item: NETHERITE_HELMET
+      Enchantment: protection
+      Level: 4
+    chestplate:
+      Item: NETHERITE_CHESTPLATE
+      Enchantment: /
+      Level: /
+    leggins:
+      Item: NETHERITE_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: NETHERITE_BOOTS
+      Enchantment: protection
+      Level: 4
+  37:
+    hand:
+      Item: NETHERITE_SWORD
+      Enchantment: sharpness
+      Level: 4
+    helmet:
+      Item: NETHERITE_HELMET
+      Enchantment: protection
+      Level: 4
+    chestplate:
+      Item: LEATHER_CHESTPLATE
+      Enchantment: protection
+      Level: 4
+    leggins:
+      Item: NETHERITE_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: NETHERITE_BOOTS
+      Enchantment: protection
+      Level: 4
+  38:
+    hand:
+      Item: NETHERITE_SWORD
+      Enchantment: sharpness
+      Level: 4
+    helmet:
+      Item: NETHERITE_HELMET
+      Enchantment: protection
+      Level: 4
+    chestplate:
+      Item: GOLDEN_CHESTPLATE
+      Enchantment: protection
+      Level: 4
+    leggins:
+      Item: NETHERITE_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: NETHERITE_BOOTS
+      Enchantment: protection
+      Level: 4
+  39:
+    hand:
+      Item: NETHERITE_SWORD
+      Enchantment: sharpness
+      Level: 4
+    helmet:
+      Item: NETHERITE_HELMET
+      Enchantment: protection
+      Level: 4
+    chestplate:
+      Item: CHAINMAIL_CHESTPLATE
+      Enchantment: protection
+      Level: 4
+    leggins:
+      Item: NETHERITE_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: NETHERITE_BOOTS
+      Enchantment: protection
+      Level: 4
+  40:
+    hand:
+      Item: NETHERITE_SWORD
+      Enchantment: sharpness
+      Level: 4
+    helmet:
+      Item: NETHERITE_HELMET
+      Enchantment: protection
+      Level: 4
+    chestplate:
+      Item: IRON_CHESTPLATE
+      Enchantment: protection
+      Level: 4
+    leggins:
+      Item: NETHERITE_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: NETHERITE_BOOTS
+      Enchantment: protection
+      Level: 4
+  41:
+    hand:
+      Item: NETHERITE_SWORD
+      Enchantment: sharpness
+      Level: 4
+    helmet:
+      Item: NETHERITE_HELMET
+      Enchantment: protection
+      Level: 4
+    chestplate:
+      Item: DIAMOND_CHESTPLATE
+      Enchantment: protection
+      Level: 4
+    leggins:
+      Item: NETHERITE_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: NETHERITE_BOOTS
+      Enchantment: protection
+      Level: 4
+  42:
+    hand:
+      Item: NETHERITE_SWORD
+      Enchantment: sharpness
+      Level: 4
+    helmet:
+      Item: NETHERITE_HELMET
+      Enchantment: protection
+      Level: 4
+    chestplate:
+      Item: NETHERITE_CHESTPLATE
+      Enchantment: protection
+      Level: 4
+    leggins:
+      Item: NETHERITE_LEGGINGS
+      Enchantment: /
+      Level: /
+    boots:
+      Item: NETHERITE_BOOTS
+      Enchantment: protection
+      Level: 4
+  43:
+    hand:
+      Item: NETHERITE_SWORD
+      Enchantment: sharpness
+      Level: 4
+    helmet:
+      Item: NETHERITE_HELMET
+      Enchantment: protection
+      Level: 4
+    chestplate:
+      Item: NETHERITE_CHESTPLATE
+      Enchantment: protection
+      Level: 4
+    leggins:
+      Item: LEATHER_LEGGINGS
+      Enchantment: protection
+      Level: 4
+    boots:
+      Item: NETHERITE_BOOTS
+      Enchantment: protection
+      Level: 4
+  44:
+    hand:
+      Item: NETHERITE_SWORD
+      Enchantment: sharpness
+      Level: 4
+    helmet:
+      Item: NETHERITE_HELMET
+      Enchantment: protection
+      Level: 4
+    chestplate:
+      Item: NETHERITE_CHESTPLATE
+      Enchantment: protection
+      Level: 4
+    leggins:
+      Item: GOLDEN_LEGGINGS
+      Enchantment: protection
+      Level: 4
+    boots:
+      Item: NETHERITE_BOOTS
+      Enchantment: protection
+      Level: 4
+  45:
+    hand:
+      Item: NETHERITE_SWORD
+      Enchantment: sharpness
+      Level: 4
+    helmet:
+      Item: NETHERITE_HELMET
+      Enchantment: protection
+      Level: 4
+    chestplate:
+      Item: NETHERITE_CHESTPLATE
+      Enchantment: protection
+      Level: 4
+    leggins:
+      Item: CHAINMAIL_LEGGINGS
+      Enchantment: protection
+      Level: 4
+    boots:
+      Item: NETHERITE_BOOTS
+      Enchantment: protection
+      Level: 4
+  46:
+    hand:
+      Item: NETHERITE_SWORD
+      Enchantment: sharpness
+      Level: 4
+    helmet:
+      Item: NETHERITE_HELMET
+      Enchantment: protection
+      Level: 4
+    chestplate:
+      Item: NETHERITE_CHESTPLATE
+      Enchantment: protection
+      Level: 4
+    leggins:
+      Item: IRON_LEGGINGS
+      Enchantment: protection
+      Level: 4
+    boots:
+      Item: NETHERITE_BOOTS
+      Enchantment: protection
+      Level: 4
+  47:
+    hand:
+      Item: NETHERITE_SWORD
+      Enchantment: sharpness
+      Level: 4
+    helmet:
+      Item: NETHERITE_HELMET
+      Enchantment: protection
+      Level: 4
+    chestplate:
+      Item: NETHERITE_CHESTPLATE
+      Enchantment: protection
+      Level: 4
+    leggins:
+      Item: DIAMOND_LEGGINGS
+      Enchantment: protection
+      Level: 4
+    boots:
+      Item: NETHERITE_BOOTS
+      Enchantment: protection
+      Level: 4
+  48:
+    hand:
+      Item: NETHERITE_SWORD
+      Enchantment: sharpness
+      Level: 4
+    helmet:
+      Item: NETHERITE_HELMET
+      Enchantment: protection
+      Level: 4
+    chestplate:
+      Item: NETHERITE_CHESTPLATE
+      Enchantment: protection
+      Level: 4
+    leggins:
+      Item: NETHERITE_LEGGINGS
+      Enchantment: protection
+      Level: 4
+    boots:
+      Item: NETHERITE_BOOTS
+      Enchantment: protection
+      Level: 4

@@ -40,9 +40,7 @@ public class GunGame implements Listener {
                 player.sendMessage("§c§l⚔ §7- Du wurdest von §6" + killer.getName() + " §7getötet!");
                 killer.sendMessage("§2§l⚔ §7- Du hast §6" + player.getName() + " §7getötet!");
 
-                if(kitvalue.get(player.getUniqueId()) - 1 >= 0) {
-                    kitvalue.put(player.getUniqueId(), kitvalue.get(player.getUniqueId()) - 1);
-                }
+                kitvalue.put(player.getUniqueId(), getNewLevelAfterDeath(kitvalue.get(player.getUniqueId())));
 
                 if(kitvalue.get(killer.getUniqueId()) + 1 <= 48) {
                     kitvalue.put(killer.getUniqueId(), kitvalue.get(killer.getUniqueId()) + 1);
@@ -78,9 +76,7 @@ public class GunGame implements Listener {
 
                 player.sendMessage("§c§l⚔ §7- Du bist gestorben!");
 
-                if(kitvalue.get(player.getUniqueId()) - 1 >= 0) {
-                    kitvalue.put(player.getUniqueId(), kitvalue.get(player.getUniqueId()) - 1);
-                }
+                kitvalue.put(player.getUniqueId(), getNewLevelAfterDeath(kitvalue.get(player.getUniqueId())));
 
                 GunGameKits.setKit(player, kitvalue.get(player.getUniqueId()));
 
@@ -128,6 +124,10 @@ public class GunGame implements Listener {
             }
         }, 0, 5);
 
+    }
+
+    private static int getNewLevelAfterDeath(int level){
+        return (int) Math.round(Math.sqrt(level)*(Math.log(level)/1.1));
     }
 
 }
