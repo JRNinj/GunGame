@@ -1,7 +1,7 @@
 name: GunGame
 version: '${project.version}'
 main: de.jrninj.gungame.Main
-api-version: 1.17
+api-version: 1.18.1
 authors: [ JRNinj, TimeTravelStudios ]
 description: Dieses Plugin ist ein GunGame MiniGames System!
 
