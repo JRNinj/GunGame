@@ -8,15 +8,14 @@ import de.jrninj.gungame.utils.Regions;
 import de.jrninj.gungame.utils.ScoreBoardGG;
 import de.jrninj.gungame.utils.StatsFile;
 import org.bukkit.GameMode;
+import org.bukkit.Material;
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.entity.EntityType;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
-import org.bukkit.event.entity.EntityDamageByEntityEvent;
-import org.bukkit.event.entity.EntityDamageEvent;
-import org.bukkit.event.entity.EntityRegainHealthEvent;
-import org.bukkit.event.entity.FoodLevelChangeEvent;
+import org.bukkit.event.block.BlockPhysicsEvent;
+import org.bukkit.event.entity.*;
 import org.bukkit.event.inventory.InventoryClickEvent;
 import org.bukkit.event.player.*;
 
@@ -122,6 +121,16 @@ public class UsefulListeners implements Listener {
 
     @EventHandler
     public void onExpPickup(PlayerPickupExperienceEvent e) {
+        e.setCancelled(true);
+    }
+
+    @EventHandler
+    public void onPhysics(BlockPhysicsEvent e) {
+        e.setCancelled(true);
+    }
+
+    @EventHandler
+    public void onInteract(EntityInteractEvent e) {
         e.setCancelled(true);
     }
 

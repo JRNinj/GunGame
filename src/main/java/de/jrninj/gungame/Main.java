@@ -4,6 +4,7 @@ import de.jrninj.gungame.commands.GunGameSetup;
 import de.jrninj.gungame.commands.KitCommand;
 import de.jrninj.gungame.game.GunGame;
 import de.jrninj.gungame.listener.UsefulListeners;
+import de.jrninj.gungame.tablist.TablistManager;
 import de.jrninj.gungame.utils.DefaultConfig;
 import org.bukkit.Bukkit;
 import org.bukkit.GameRule;
@@ -15,17 +16,19 @@ public final class Main extends JavaPlugin {
 
     public static Main Plugin;
     public static String PREFIX = "§f[§4Gun§6Game§f] §f";
+    private TablistManager tablistManager;
 
     @Override
     public void onEnable() {
         Plugin = this;
-        log(PREFIX + "§2Das Plugin wurde erfolgrecih geladen!");
+        log(PREFIX + "§2Das Plugin wurde erfolgreich geladen!");
         log("§fAlle Rechte am Plugin gehören ausschließlich den Mitarbeitern von TimeTravelStudios ©2021");
 
         register();
 
         DefaultConfig.setStandart();
         GunGame.GunGameEngine();
+        tablistManager.scheduleTablist();
 
         for (World world : Bukkit.getWorlds()) {
             world.setGameRule(GameRule.KEEP_INVENTORY, true);
@@ -53,9 +56,14 @@ public final class Main extends JavaPlugin {
         Bukkit.getPluginCommand("kit").setExecutor(new KitCommand());
         Bukkit.getPluginCommand("kit").setExecutor(new KitCommand());
         Bukkit.getPluginCommand("setup").setExecutor(new GunGameSetup());
+
+        tablistManager = new TablistManager(this);
     }
 
     public static Main getPlugin() {
         return Plugin;
+    }
+    public TablistManager getTablistManager() {
+        return tablistManager;
     }
 }

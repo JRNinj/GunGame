@@ -105,6 +105,7 @@ public class GunGame implements Listener {
         int i = random.nextInt(4) + 1;
 
         e.setRespawnLocation(config2.getLocation("Setup.Spawn" + i));
+        Main.getPlugin().getTablistManager().updateTablist();
     }
 
     public static void GunGameEngine() {
